@@ -2,7 +2,7 @@
 
 ​![github](https://img.shields.io/badge/JavaHub-SpringBoot-brightgreen.svg) ![github](https://img.shields.io/badge/JavaHub-SpringCloud-brightgreen.svg) ![github](https://img.shields.io/badge/JavaHub-MyBatisPlus-brightgreen.svg)​
 
-​![GitHub Repo stars](https://img.shields.io/github/stars/Rocky77JHxu/JavaHub) ​![GitHub forks](https://img.shields.io/github/forks/Rocky77JHxu/JavaHub)​
+​![GitHub Org's stars](https://img.shields.io/github/stars/CodeDriver-Of-Sanya) 
 
 ​![image](assets/image-20230902215137-9l742p1.png)​
 
