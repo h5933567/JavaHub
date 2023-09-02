@@ -8,7 +8,7 @@
 
 ---
 
-现负责人员[2023 第六届]：👩‍💻史佳颖[^Profile^](https://github.com/qinranguchangsheng)，👨‍💻何江涛[^Profile^](https://github.com/Tiga111)，👨‍💻何人杰[^Profile^](https://github.com/h5933567)，👨‍💻牛彬宇；
+现负责人员[2023 第六届]：👩‍💻史佳颖[^Profile^](https://github.com/qinranguchangsheng)，👨‍💻何江涛[^Profile^](https://github.com/Tiga111)，👨‍💻何人杰[^Profile^](https://github.com/h5933567)，👨‍💻牛彬宇[^Profile^](https://github.com/strgundam)；
 
 往届负责人：
 
