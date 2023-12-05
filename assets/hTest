@@ -1,0 +1,10 @@
+package com.example.demo01;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Test01 {
+    public String ab (){
+        return "hello";
+    }
+}
